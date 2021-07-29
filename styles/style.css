@@ -45,4 +45,21 @@ body {
   border-radius: 10px;
   margin-top: 10px;
   border: 3px solid whitesmoke;
-
+}
+button {
+  background-color: #e02c6d;
+  color: #ffffff;
+  width: 144px;
+  height: 44px;
+  border-radius: 10px;
+}
+.top-logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.logos img {
+  width: 483.87px;
+  height: 110px;
+}
